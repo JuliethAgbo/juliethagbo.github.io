@@ -6,4 +6,4 @@ This portfolio serves as a repository to showcase my skills, share projects and 
 1. [Marketing Data Modelling- Python](https://github.com/JuliethAgbo/Marketing-Data-Analytics)
 2. Exploratory Data Analysis - SQL
 3. Client Expansion Strategy - SQL, Talend Open Studio and PowerBI
-4. [Developing a pipeline for movies Dataset - A guided project](https://drive.google.com/file/d/1tq6T3ZL6s7pRZs0N2HkXKaAytX517mve/view?usp=drive_link)
+4. [Developing a pipeline for movies Dataset - A guided project](https://drive.google.com/file/d/1UsjM0Xrk6N3mo07_Ln_Ki74UYbxJcpMg/view?usp=sharing)
