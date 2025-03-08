@@ -3,6 +3,6 @@
 This portfolio serves as a repository to showcase my skills, share projects and track my progress in Data Analysis and Data Science related topics.
 
 #### TABLE OF CONTENTS
-1. [Marketing Data Modelling]((https://github.com/JuliethAgbo/Marketing-Data-Analytics)) - Python
+1. [Marketing Data Modelling] (https://github.com/JuliethAgbo/Marketing-Data-Analytics) - Python
 2. Exploratory Data Analysis - SQL
 3. Client Expansion Strategy - SQL, Talend Open Studio and PowerBI
